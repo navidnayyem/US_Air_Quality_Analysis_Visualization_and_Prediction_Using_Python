@@ -7,13 +7,13 @@ People's health is directly impacted by air quality. Numerous respiratory disord
 **The following methods and tools that will be used in this project are:**
 
 <ol>
-  <li>(i) Python programming language for data analysis, visualization, and prediction. </li>
-  <li>(ii) Panda-Numpy for data manipulation analysis. </li>
-  <li>(iii) Matplotlib, Seaborn, and Plotly for static visualization and interactivity. </li>
-  <li>(iv) Time-series analysis techniques for trend identification and forecasting. </li>
-  <li>(v) The category of Air Quality Index (AQI) will be classified. </li>
-  <li>(vi) Accuracy measurement using metrics like Root-Mean-Square Deviation (RMSE) for regression, or appropriate metrics for classification if needed. </li>
-  <li>(vii) Apply or create machine learning models like Scikit-Learn for predicting US air quality and accurately forecast AQI values in the US. </li>
+  <li>Python programming language for data analysis, visualization, and prediction. </li>
+  <li>Panda-Numpy for data manipulation analysis. </li>
+  <li>Matplotlib, Seaborn, and Plotly for static visualization and interactivity. </li>
+  <li>Time-series analysis techniques for trend identification and forecasting. </li>
+  <li>The category of Air Quality Index (AQI) will be classified. </li>
+  <li>Accuracy measurement using metrics like Root-Mean-Square Deviation (RMSE) for regression, or appropriate metrics for classification if needed. </li>
+  <li>Apply or create machine learning models like Scikit-Learn for predicting US air quality and accurately forecast AQI values in the US. </li>
 </ol>
 
 
